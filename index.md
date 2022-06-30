@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Inici
+nav_order: 1
+---
 
-You can use the [editor on GitHub](https://github.com/AnaBerta/Presentacion_H-M/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# H&M Recommendation
+{: .fs-9 }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Capstone Project - Data Science and Machine Learning Postgraduate Course at Universitat de Barcelona, 2021-22
+{: .fs-6 .fw-300 }
 
-### Markdown
+En aquesta web s'explica el projecte final del Postgrau Introducció a la Data Science i al Machine Learning de la UB realitzat per la Raquel Dominguez, l'Ester Iglesias i l'Ana Berta Vegas. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+En poques paraules, el projecte es tracta d'una recomanació d'articles del *grup H&M* basada en usuaris. És a dir, donat un conjunt d'interaccions usuari-producte, la idea és proporcionar una classificació ordenada d'articles per a cada usuari.
 
-```markdown
-Syntax highlighted code block
+En els següents apartats ho veurem amb més detall. L'estructura serà la següent:
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<div class="code-example" markdown="1">
+<h4>Índex</h4>
+1. [Introducció](intro.md)
+1. [Dades](dades.md)
+1. [Model](model.md)
+1. [Conclusions](conclusions.md)
+</div>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnaBerta/Presentacion_H-M/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
